@@ -23,7 +23,7 @@ _Contact James Le - Jamesle206@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com
 
 https://lcaveh.github.io/resort-website/index.html
 
-https://Jamesle206.github.io/resort-website/index.html
+https://jamesle206.github.io/resort-website/
 
 ## Technologies Used
 
