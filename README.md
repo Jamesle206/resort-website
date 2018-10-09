@@ -21,14 +21,14 @@ _Contact James Le - Jamesle206@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com
 
 ## GitHub page's links
 
-_https://lcaveh.github.io/resort-website/index.html
+https://lcaveh.github.io/resort-website/index.html
 
-_https://Jamesle206.github.io/resort-website/index.html
+https://Jamesle206.github.io/resort-website/index.html
 
 ## Technologies Used
 
-_HTML_
-_CSS_
+* _HTML_
+* _CSS_
 
 ### License
 
