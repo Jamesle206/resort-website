@@ -19,6 +19,12 @@ _A multi page website with navigation for a Caribbean beach resort that contains
 
 _Contact James Le - Jamesle206@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com._
 
+## GitHub page's links
+
+_https://lcaveh.github.io/resort-website/index.html
+
+_https://Jamesle206.github.io/resort-website/index.html
+
 ## Technologies Used
 
 _HTML_
